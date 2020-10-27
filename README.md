@@ -11,7 +11,7 @@
 <img src="https://raw.githubusercontent.com/nkr4m/Blog-Application-Django/main/site%20preview/blog_detail.png" width="100%"></img>
 
 ## Comment Section of Blog
-<img src="https://raw.githubusercontent.com/nkr4m/Blog-Application-Django/main/site%20preview/comment.png width="100%"></img>
+<img src="https://raw.githubusercontent.com/nkr4m/Blog-Application-Django/main/site%20preview/comment.png" width="100%"></img>
 
 
 ## Connect
